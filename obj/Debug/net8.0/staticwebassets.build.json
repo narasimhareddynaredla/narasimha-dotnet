@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QYC/hHAF8XvREoyDtVnTawPkec/aLJxq4gZOfo2PNvQ=",
+  "Source": "weatherreport",
+  "BasePath": "_content/weatherreport",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
